@@ -1,0 +1,5 @@
+a =input("Enter your name: ")
+print("Your name is :",a)
+num1 = input("Enter First number: ")
+num2 = input("Enter Second number: ")
+print(int(num1) + int(num2))
