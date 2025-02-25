@@ -1,0 +1,10 @@
+a=10
+b=20
+print(a)
+print(b)
+print(a+b)
+c,d,e=10,20,30
+print(c)
+print(d)
+print(e)
+print(c*d)
